@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		534699851F16983A0020445F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534699841F16983A0020445F /* main.swift */; };
+		5346998C1F1D28210020445F /* MatchObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5346998B1F1D28210020445F /* MatchObserver.swift */; };
+		5346998E1F1D2BA80020445F /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5346998D1F1D2BA80020445F /* Subject.swift */; };
+		534699921F1D2F5D0020445F /* MatchReporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534699911F1D2F5D0020445F /* MatchReporter.swift */; };
+		534699941F1D475B0020445F /* SMSObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534699931F1D475B0020445F /* SMSObserver.swift */; };
+		534699961F1D4F9C0020445F /* EmailObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534699951F1D4F9C0020445F /* EmailObserver.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		534699811F16983A0020445F /* ObserverPattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ObserverPattern; sourceTree = BUILT_PRODUCTS_DIR; };
 		534699841F16983A0020445F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		5346998B1F1D28210020445F /* MatchObserver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatchObserver.swift; sourceTree = "<group>"; };
+		5346998D1F1D2BA80020445F /* Subject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
+		534699911F1D2F5D0020445F /* MatchReporter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatchReporter.swift; sourceTree = "<group>"; };
+		534699931F1D475B0020445F /* SMSObserver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SMSObserver.swift; sourceTree = "<group>"; };
+		534699951F1D4F9C0020445F /* EmailObserver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmailObserver.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				534699841F16983A0020445F /* main.swift */,
+				534699931F1D475B0020445F /* SMSObserver.swift */,
+				534699951F1D4F9C0020445F /* EmailObserver.swift */,
+				534699911F1D2F5D0020445F /* MatchReporter.swift */,
+				5346998B1F1D28210020445F /* MatchObserver.swift */,
+				5346998D1F1D2BA80020445F /* Subject.swift */,
 			);
 			path = ObserverPattern;
 			sourceTree = "<group>";
@@ -122,6 +137,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				534699851F16983A0020445F /* main.swift in Sources */,
+				5346998E1F1D2BA80020445F /* Subject.swift in Sources */,
+				534699921F1D2F5D0020445F /* MatchReporter.swift in Sources */,
+				5346998C1F1D28210020445F /* MatchObserver.swift in Sources */,
+				534699961F1D4F9C0020445F /* EmailObserver.swift in Sources */,
+				534699941F1D475B0020445F /* SMSObserver.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
