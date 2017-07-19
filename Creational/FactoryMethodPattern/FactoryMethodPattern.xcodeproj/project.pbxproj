@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		534699B71F1E806F0020445F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534699B61F1E806F0020445F /* main.swift */; };
+		534E7B9B1F1FCE6500854553 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534E7B9A1F1FCE6500854553 /* Pokemon.swift */; };
+		534E7B9D1F1FCE9900854553 /* Bulbasaur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534E7B9C1F1FCE9900854553 /* Bulbasaur.swift */; };
+		534E7B9F1F1FCEC100854553 /* Charmander.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534E7B9E1F1FCEC100854553 /* Charmander.swift */; };
+		534E7BA11F1FCEE500854553 /* Squirtle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534E7BA01F1FCEE500854553 /* Squirtle.swift */; };
+		534E7BA31F1FCF0A00854553 /* PokemonFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534E7BA21F1FCF0A00854553 /* PokemonFactory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		534699B31F1E806F0020445F /* FactoryMethodPattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FactoryMethodPattern; sourceTree = BUILT_PRODUCTS_DIR; };
 		534699B61F1E806F0020445F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		534E7B9A1F1FCE6500854553 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		534E7B9C1F1FCE9900854553 /* Bulbasaur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bulbasaur.swift; sourceTree = "<group>"; };
+		534E7B9E1F1FCEC100854553 /* Charmander.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charmander.swift; sourceTree = "<group>"; };
+		534E7BA01F1FCEE500854553 /* Squirtle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Squirtle.swift; sourceTree = "<group>"; };
+		534E7BA21F1FCF0A00854553 /* PokemonFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonFactory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				534699B61F1E806F0020445F /* main.swift */,
+				534E7B9A1F1FCE6500854553 /* Pokemon.swift */,
+				534E7B9C1F1FCE9900854553 /* Bulbasaur.swift */,
+				534E7B9E1F1FCEC100854553 /* Charmander.swift */,
+				534E7BA01F1FCEE500854553 /* Squirtle.swift */,
+				534E7BA21F1FCF0A00854553 /* PokemonFactory.swift */,
 			);
 			path = FactoryMethodPattern;
 			sourceTree = "<group>";
@@ -121,7 +136,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				534E7B9F1F1FCEC100854553 /* Charmander.swift in Sources */,
 				534699B71F1E806F0020445F /* main.swift in Sources */,
+				534E7B9B1F1FCE6500854553 /* Pokemon.swift in Sources */,
+				534E7B9D1F1FCE9900854553 /* Bulbasaur.swift in Sources */,
+				534E7BA31F1FCF0A00854553 /* PokemonFactory.swift in Sources */,
+				534E7BA11F1FCEE500854553 /* Squirtle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +273,7 @@
 				534699BC1F1E806F0020445F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
