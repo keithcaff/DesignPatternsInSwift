@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  FactoryPattern
+//  AbstractFactroyPattern
 //
-//  Created by Keith Caffrey on 18/07/2017.
+//  Created by Keith Caffrey on 03/08/2017.
 //  Copyright © 2017 KCDEV. All rights reserved.
 //
 

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5346999F1F1E76580020445F"
-               BuildableName = "FactoryPattern"
-               BlueprintName = "FactoryPattern"
-               ReferencedContainer = "container:FactoryPattern.xcodeproj">
+               BlueprintIdentifier = "5310B4EA1F33989200466952"
+               BuildableName = "AbstractFactroyPattern"
+               BlueprintName = "AbstractFactroyPattern"
+               ReferencedContainer = "container:AbstractFactroyPattern.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5346999F1F1E76580020445F"
-            BuildableName = "FactoryPattern"
-            BlueprintName = "FactoryPattern"
-            ReferencedContainer = "container:FactoryPattern.xcodeproj">
+            BlueprintIdentifier = "5310B4EA1F33989200466952"
+            BuildableName = "AbstractFactroyPattern"
+            BlueprintName = "AbstractFactroyPattern"
+            ReferencedContainer = "container:AbstractFactroyPattern.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5346999F1F1E76580020445F"
-            BuildableName = "FactoryPattern"
-            BlueprintName = "FactoryPattern"
-            ReferencedContainer = "container:FactoryPattern.xcodeproj">
+            BlueprintIdentifier = "5310B4EA1F33989200466952"
+            BuildableName = "AbstractFactroyPattern"
+            BlueprintName = "AbstractFactroyPattern"
+            ReferencedContainer = "container:AbstractFactroyPattern.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5346999F1F1E76580020445F"
-            BuildableName = "FactoryPattern"
-            BlueprintName = "FactoryPattern"
-            ReferencedContainer = "container:FactoryPattern.xcodeproj">
+            BlueprintIdentifier = "5310B4EA1F33989200466952"
+            BuildableName = "AbstractFactroyPattern"
+            BlueprintName = "AbstractFactroyPattern"
+            ReferencedContainer = "container:AbstractFactroyPattern.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

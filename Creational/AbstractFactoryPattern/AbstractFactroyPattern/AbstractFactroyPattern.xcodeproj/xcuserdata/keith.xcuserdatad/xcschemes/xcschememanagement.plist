@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FactoryPattern.xcscheme</key>
+		<key>AbstractFactroyPattern.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5346999F1F1E76580020445F</key>
+		<key>5310B4EA1F33989200466952</key>
 		<dict>
 			<key>primary</key>
 			<true/>
