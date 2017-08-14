@@ -10,3 +10,11 @@ import Foundation
 
 print("Hello, World!")
 
+let darkThemeFactory:ThemeFactory = DarkThemeFactory()
+darkThemeFactory.createDialog()
+darkThemeFactory.createToolBar()
+
+
+let lightThemeFactory:ThemeFactory = LightThemeFactory()
+lightThemeFactory.createDialog()
+lightThemeFactory.createToolBar()

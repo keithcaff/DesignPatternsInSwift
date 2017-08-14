@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3A7A8AEC0E9C925352B200BF5BEDE3BCF66F8BEC" : 9223372036854775807,
+    "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "465008F8-EE1B-43CF-B5B5-CD0FFAD24CEE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3A7A8AEC0E9C925352B200BF5BEDE3BCF66F8BEC" : "",
+    "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D" : "DesignPatternsInSwift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FactoryMethodPattern",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Creational\/FactoryMethodPattern\/FactoryMethodPattern.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keithcaff\/EventApp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A7A8AEC0E9C925352B200BF5BEDE3BCF66F8BEC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keithcaff\/DesignPatternsInSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D"
+    }
+  ]
+}

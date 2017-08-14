@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		53094D8D1F421B6F00A8D694 /* Toolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D8C1F421B6F00A8D694 /* Toolbar.swift */; };
+		53094D8F1F421C1300A8D694 /* LightToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D8E1F421C1300A8D694 /* LightToolbar.swift */; };
+		53094D911F421C6F00A8D694 /* DarkToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D901F421C6F00A8D694 /* DarkToolbar.swift */; };
+		53094D931F421CA200A8D694 /* Dialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D921F421CA200A8D694 /* Dialog.swift */; };
+		53094D951F421CC700A8D694 /* DarkDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D941F421CC700A8D694 /* DarkDialog.swift */; };
+		53094D971F421CF900A8D694 /* LightDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D961F421CF900A8D694 /* LightDialog.swift */; };
+		53094D991F421E6800A8D694 /* ThemeFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D981F421E6800A8D694 /* ThemeFactory.swift */; };
+		53094D9B1F421EE400A8D694 /* DarkThemeFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D9A1F421EE400A8D694 /* DarkThemeFactory.swift */; };
+		53094D9D1F421F8D00A8D694 /* LightThemeFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53094D9C1F421F8D00A8D694 /* LightThemeFactory.swift */; };
 		5310B4EF1F33989200466952 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5310B4EE1F33989200466952 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +32,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		53094D8C1F421B6F00A8D694 /* Toolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toolbar.swift; sourceTree = "<group>"; };
+		53094D8E1F421C1300A8D694 /* LightToolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightToolbar.swift; sourceTree = "<group>"; };
+		53094D901F421C6F00A8D694 /* DarkToolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkToolbar.swift; sourceTree = "<group>"; };
+		53094D921F421CA200A8D694 /* Dialog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dialog.swift; sourceTree = "<group>"; };
+		53094D941F421CC700A8D694 /* DarkDialog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkDialog.swift; sourceTree = "<group>"; };
+		53094D961F421CF900A8D694 /* LightDialog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightDialog.swift; sourceTree = "<group>"; };
+		53094D981F421E6800A8D694 /* ThemeFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeFactory.swift; sourceTree = "<group>"; };
+		53094D9A1F421EE400A8D694 /* DarkThemeFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkThemeFactory.swift; sourceTree = "<group>"; };
+		53094D9C1F421F8D00A8D694 /* LightThemeFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightThemeFactory.swift; sourceTree = "<group>"; };
 		5310B4EB1F33989200466952 /* AbstractFactroyPattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AbstractFactroyPattern; sourceTree = BUILT_PRODUCTS_DIR; };
 		5310B4EE1F33989200466952 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +76,15 @@
 			isa = PBXGroup;
 			children = (
 				5310B4EE1F33989200466952 /* main.swift */,
+				53094D981F421E6800A8D694 /* ThemeFactory.swift */,
+				53094D9A1F421EE400A8D694 /* DarkThemeFactory.swift */,
+				53094D9C1F421F8D00A8D694 /* LightThemeFactory.swift */,
+				53094D8C1F421B6F00A8D694 /* Toolbar.swift */,
+				53094D921F421CA200A8D694 /* Dialog.swift */,
+				53094D941F421CC700A8D694 /* DarkDialog.swift */,
+				53094D961F421CF900A8D694 /* LightDialog.swift */,
+				53094D8E1F421C1300A8D694 /* LightToolbar.swift */,
+				53094D901F421C6F00A8D694 /* DarkToolbar.swift */,
 			);
 			path = AbstractFactroyPattern;
 			sourceTree = "<group>";
@@ -121,7 +148,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53094D9B1F421EE400A8D694 /* DarkThemeFactory.swift in Sources */,
+				53094D991F421E6800A8D694 /* ThemeFactory.swift in Sources */,
 				5310B4EF1F33989200466952 /* main.swift in Sources */,
+				53094D951F421CC700A8D694 /* DarkDialog.swift in Sources */,
+				53094D971F421CF900A8D694 /* LightDialog.swift in Sources */,
+				53094D931F421CA200A8D694 /* Dialog.swift in Sources */,
+				53094D911F421C6F00A8D694 /* DarkToolbar.swift in Sources */,
+				53094D9D1F421F8D00A8D694 /* LightThemeFactory.swift in Sources */,
+				53094D8D1F421B6F00A8D694 /* Toolbar.swift in Sources */,
+				53094D8F1F421C1300A8D694 /* LightToolbar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +289,7 @@
 				5310B4F41F33989200466952 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

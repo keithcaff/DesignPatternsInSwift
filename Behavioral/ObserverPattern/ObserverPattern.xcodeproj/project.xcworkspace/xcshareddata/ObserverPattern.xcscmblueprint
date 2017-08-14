@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3A7A8AEC0E9C925352B200BF5BEDE3BCF66F8BEC" : 9223372036854775807,
+    "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CC4B76F8-81A5-4AA4-8D51-31CC05BA24FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3A7A8AEC0E9C925352B200BF5BEDE3BCF66F8BEC" : "",
+    "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D" : "DesignPatternsInSwift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ObserverPattern",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Behavioral\/ObserverPattern\/ObserverPattern.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keithcaff\/EventApp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A7A8AEC0E9C925352B200BF5BEDE3BCF66F8BEC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keithcaff\/DesignPatternsInSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0EA0DAF648AEF95AFA8C4E3931DEDD77F1FB82D"
+    }
+  ]
+}
